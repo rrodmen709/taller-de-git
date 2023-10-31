@@ -1,5 +1,6 @@
-# Curso de GIT, 2023
 
-Este proyecto contiene el curso de introducción a GIT en el IES Trassierra.
+#Curso de GIT Octubre, 2023
 
-Desarrollado por RafaRM.
+Este proyecto contiene el curso de introduión a GIT en el IES Trassierra.
+
+Desarrollado por RafaRM
